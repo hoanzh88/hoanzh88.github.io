@@ -5,7 +5,7 @@
     bindings: {
       brand: '<'
     },
-    templateUrl: 'http://localhost/myweb/js/components/include/footerComponent.html',
+    templateUrl: 'https://hoanzh88.github.io/js/components/include/footerComponent.html',
     controller: function () {
        
     }
