@@ -11,7 +11,7 @@
     // Pulls in out template
 	
     // templateUrl: '/js/components/appComponent.html',
-    templateUrl: 'http://localhost/myweb/js/components/include/navigationComponent.html',
+    templateUrl: 'https://hoanzh88.github.io/js/components/include/navigationComponent.html',
 
   });
 })();
