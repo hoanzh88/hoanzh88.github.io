@@ -5,7 +5,7 @@
     bindings: {
       brand: '<'
     },
-    templateUrl: 'http://localhost/myweb/js/components/home/top1Component.html',
+    templateUrl: 'https://hoanzh88.github.io/js/components/home/top1Component.html',
 
   });
 })();
